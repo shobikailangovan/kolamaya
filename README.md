@@ -2,10 +2,17 @@
 
 KOLAMAYA is a team project that brings traditional South Indian Kolam art together with modern technology.
 
-##  Features
-- Digital Kolam creation
-- Traditional art and technology integration
-- Exploration of geometric patterns and symmetry
+## ✨ Key Features
+
+- **Generator:** Create new Kolam patterns.
+- **Half Completion:** Restore incomplete patterns using symmetry.
+- **Part to Whole:** Predict complete Kolam designs from fragments.
+- **Recreator:** Digitally redraw Kolam images.
+- **Analyzer:** Measure pattern form and balance.
+
+##  About the Project
+
+KOLAMAYA explores the geometry, rhythm and beauty of traditional South Indian Kolam through modern digital technology.
 
 ##  Live Demo
 https://kolamayaai.vercel.app/
