@@ -19,3 +19,14 @@ https://kolamayaai.vercel.app/
 
 ##  Project Type
 Team Project 
+
+## 📸 Project Screenshots
+
+### Homepage
+![KOLAMAYA Homepage](screenshots/Homepage.jpeg)
+
+### Generator
+![KOLAMAYA Generator](screenshots/Generator.jpeg)
+
+### Recreator
+![KOLAMAYA Recreator](screenshots/Recreator.jpeg)
